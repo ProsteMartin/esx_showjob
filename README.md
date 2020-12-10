@@ -1,5 +1,9 @@
-# Installation
+# esx_showjob
 
+### Requirements
+- [mythic_notify](https://github.com/ProsteMartin/mythic_notify)
+
+### Installation
 ```
 # 1. Install mythic_notify ** https://github.com/ProsteMartin/mythic_notify **
 # 2. Drag it into your resources
