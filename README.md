@@ -5,7 +5,7 @@
 
 ### Installation
 ```
-# 1. Install mythic_notify ** https://github.com/ProsteMartin/mythic_notify **
+# 1. Install mythic_notify
 # 2. Drag it into your resources
 # 3. Add "start mythic_notify" to you server.cfg
 
