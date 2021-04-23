@@ -1,4 +1,4 @@
--- Nezapomeň tento soubor přejmenovat na server.lua a odestraňit ten minulý.
+-- Nezapomeň tento soubor přejmenovat na server.lua a odestranit ten minulý.
 ESX = nil
 
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
