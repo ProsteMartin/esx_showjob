@@ -2,6 +2,7 @@
 
 ### Requirements
 - [mythic_notify](https://github.com/ProsteMartin/mythic_notify)
+- [es_extended v1.1]
 
 ### Installation
 ```
