@@ -1,8 +1,11 @@
 # esx_showjob
 
+## Information
+- This version is only for es_extended v1.1
+- Version for es_extended v1.2 is on side.
+
 ### Requirements
 - [mythic_notify](https://github.com/ProsteMartin/mythic_notify)
-- [es_extended v1.1]
 
 ### Installation
 ```
