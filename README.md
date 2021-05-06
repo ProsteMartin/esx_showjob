@@ -10,13 +10,7 @@
 
 ### Installation
 ```
-# 1. Install mythic_notify
+# 1. Install esx_showjob
 # 2. Drag it into your resources
-# 3. Add "start mythic_notify" to you server.cfg
-
-# 4. Install esx_showjob
-# 5. Drag it into your resources
-# 6. Add "start esx_showjob" to your server.cfg
-
-# 7. Start server and enjoy.
+# 3. Add "start esx_showjob" to your server.cfg
 ```
